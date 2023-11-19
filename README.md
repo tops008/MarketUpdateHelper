@@ -1,6 +1,6 @@
 # MarketUpdateHelper
 
-- Run either from main.exe, or directly from the python script (you may need to install additional dependencies).
+- Run either from dist/main.exe, or directly from the python script (you may need to install additional dependencies).
 - You can use pyinstaller to update the exe: pyinstaller.exe main.py --noconfirm --onefile
 - Menu -> Auth for each character you want to use.
 - Authentication data is stored in the characters.txt, which is stored and created where the app is executed from.
